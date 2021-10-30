@@ -1,0 +1,446 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.banner{
+background-image: url(../img/banner.png);
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+min-height: 50vh;
+}
+.hg{
+   min-height: 85vh;
+   justify-content: center;
+   align-items: center;
+   color: #fff;
+   font-family: Poppins;
+}
+.navbar-brand{
+
+}
+.navbar-brand img{
+
+}
+.navbar-nav{
+
+}
+.navbar-nav .nav-item{
+
+margin-left: 18px;
+}
+.navbar-nav .nav-item .nav-link{
+
+color: rgb(255, 255, 255);
+}
+.btn-work{
+
+padding: 0;
+
+margin: 0;
+
+border:1px solid #f74419;
+
+padding: 10px 30px;
+
+color: rgb(255, 255, 255);
+
+margin-left: 30px;
+}
+.navbar-nav .nav-item .nav-link:hover{
+    color: #f74419;
+}
+.btn-work:hover{
+    background: #f74419;
+    color: #fff; 
+}
+.banner-content{
+
+}
+.banner-content h1{
+
+font-size: 46px;
+
+font-weight: 700;
+}
+.banner-content p{
+    
+}
+
+/* banner part end  */
+
+
+
+/* WELCOME TO ENAM MOTORS start  */
+.ENAM-MOTORS{
+
+}
+.WELCOME-contrnt{
+
+width: 70%;
+
+text-align: center;
+}
+.WELCOME-contrnt h1{
+
+font-size: 30px;
+
+color: #f74419;
+}
+.WELCOME-contrnt p{
+
+}
+.service{
+
+justify-content: center;
+
+align-items: center;
+}
+.service-content{
+
+}
+.service-content h4{
+
+font-size: 33px;
+
+font-family: Poppins;
+
+font-weight: 500;
+
+line-height: 48px;
+}
+.service-content span{
+
+display: block;
+
+border: 1px solid #f74419;
+
+width: 15%;
+
+margin-top: 20px;
+}
+.service-content p{line-height: 25px;margin-top: 20px;}
+.service-img{
+
+}
+.service-img img{
+    
+width: 100%;
+}
+
+
+/* WELCOME TO ENAM MOTORS end   */
+
+
+/* Mission & Vission start  */
+.Mission{
+
+color: red;
+
+text-align: center;
+
+background: rgba(247, 68, 25, 0.05);
+}
+.Mission h4{
+    
+padding-top: 43px;
+    
+font-size: 35px;
+}
+.map{
+    
+justify-content: center;
+    
+align-items: center;
+}
+.map-img{width: 10;}
+.map-img img{
+
+/* width: 100%; */
+}  
+.map-con{
+
+color: #000;
+
+margin-left: 80px;
+}
+.map-con h5{
+
+font-size: 33px;
+
+color: #000;
+
+text-align: left;
+}
+.map-con p{
+
+color: #000;
+
+text-align: left;
+
+margin-top: 25px;
+}
+.map-con p span{
+
+}
+.btn-Learn{
+    margin: 0;
+    padding: 0;
+    border: 1px solid red;
+    padding: 10px 30px;
+    margin: auto;
+}
+.btn-Learn:hover{
+    color: #fff;
+    background: #f74419;
+}
+
+/* Mission & Vission end  */
+
+
+/*  Products & Services banner  start */
+
+
+.service-banner{
+    background-image: url(../img/service-banner.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 50vh;
+}
+.banner-hg{/* min-height: 50vh; */}
+.service-banner-cont{
+    
+text-align: center;
+    
+color: #fff;
+}
+.service-banner-cont h1{
+    
+padding-top: 40px;
+    
+margin-bottom: 30px;
+    
+color: #F74419;
+}
+.service-banner-cont p{
+    
+margin-bottom: 100px;
+}
+.services{
+
+color: #000;
+
+background: #fff;
+
+padding: 49px;
+
+border-radius: 15px;
+
+margin-left: 50px;
+
+margin-bottom: 100px;
+}
+.services:hover{
+    background-color: #f74419;
+    color: #fff;
+}
+.services h6{
+
+text-align: center;
+
+
+font-size: 30px;
+}
+.services p{
+
+text-align: center;
+
+font-size: 13px;
+}
+.services ul{
+
+}
+.services ul li{
+
+font-size: 11px;
+}
+.btn-See{
+
+margin: 0;
+
+color: #f74419;
+
+margin-top: 15px;
+
+background: #fff;
+
+padding: 0;
+
+color: #000;
+
+padding: 5px 27px;
+
+border: 1px solid #f74419;
+}
+.btn-See:hover{
+    background: #fff;
+}
+
+/* Products & Services banner  end  */
+
+/* Conact us part start  */
+
+.Conact{
+    background-image: url(../img/footter-banner.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 50px;
+}
+.Conact-us-hg{
+    
+min-height: 70vh;
+    
+justify-content: center;
+    
+align-items: center;
+}
+.Conact-us{
+
+color: #fff;
+
+margin-bottom: 65px;
+
+margin-top: 60px;
+}
+.Conact-us h5{
+
+font-size: 30px;
+
+color: #f74419;
+
+margin-bottom: 25px;
+}
+.Conact-us h6{
+
+margin-bottom: 18px;
+}
+.Conact-us p{
+
+margin-bottom: 15px;
+
+font-size: 14px;
+}
+.Conact-us p a{
+
+text-decoration: none;
+
+color: #fff;
+}
+.Conact-us p a:hover{
+color: #f74419;
+
+}
+.Conact-us-map{
+
+margin-left: 50px;
+}
+.Conact-us-map iframe{
+    
+border-radius: 15px;
+}
+
+/* Conact Us end  */
+
+
+
+/* footer */
+.footer{
+
+background-color: #fff5f3;
+}
+.footer img{
+
+margin-bottom: 13px;
+
+width: 45%;
+
+margin-left: -20px;
+}
+.footer p{
+
+color: #0000008c;
+
+font-size: 12px;
+}
+.form{
+
+} 
+.footer-hg{
+
+justify-content: center;
+
+align-items: center;
+
+min-height: 50vh;
+}
+.form h5{
+
+margin-bottom: 20px;
+
+color: #f74419;
+}
+form .from{
+
+border-radius: 30px;
+
+margin-bottom: 15px;
+
+border: 1px solid #ff000033;
+
+background: transparent;
+
+padding: 10px 25px;
+}
+.from-send{
+    
+margin: 0;
+    
+padding: 0;
+    
+padding: 10px 40px;
+    
+margin-top: 7px;
+    
+border-radius: 25px;
+    
+border: 1px solid #ff000066;
+}
+form .from:focus{
+    background: transparent;
+
+}
+form .from:focus-visible{
+ border: none;   
+}
+
+footer{
+
+background-color: #fff5f3;
+}
+footer span{
+
+display: block;
+
+border: 1px solid #ff784f24;
+}
+footer h5{
+    
+text-align: center;
+    
+padding: 30px 0;
+}
